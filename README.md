@@ -25,10 +25,14 @@ _Bunda ko'ra biz shu imtihonlardan yig'ilgan ballarni ielts balinigiz nechchi ch
 
 _Bunda ko'ra biz shu imtihonlardan yig'ilgan ballarni ielts balinigiz nechchi chiqishini oldindan bilamiz_
 
-## Image
+## Code to main
 ![Menu](/Images/menu.png)
-
-![code running](/Images/code-run.gif)
-## Muallif
-
-Muallif: [***Husanov Afruzbek***]
+#### Bu kodning asosiy yani "*__Main__*" qismi hisoblanadi bunda ielts dan yig'gan ballaringiz hisoblanadi. 
+---
+### Bu qism kodni yaxlidlash uchun eng karakli qism hisoblanadi.
+![part of the work](/Images/COdeCarbon.jpg)
+___
+##  ***RUN CODE***
+![Ruz code](/Images/code-run2.gif)
+### Muallif: [***Husanov Afruzbek***]
+---
