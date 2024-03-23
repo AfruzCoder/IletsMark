@@ -33,6 +33,6 @@ _Bunda ko'ra biz shu imtihonlardan yig'ilgan ballarni ielts balinigiz nechchi ch
 ![part of the work](/Images/COdeCarbon.jpg)
 ___
 ##  ***RUN CODE***
-![Ruz code](/Images/code-run2.gif)
+![Ruz code](/Images/code-run3.gif)
 ### Muallif: [***Husanov Afruzbek***]
 ---
