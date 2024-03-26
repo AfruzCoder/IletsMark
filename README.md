@@ -15,15 +15,11 @@ IELTS imtihoni 4 ta bo'limdan iborat:
 
 ## Natijalar
 ### Masalan:
-- Listening: 7.5
-- Reading: 8.0
-- Writing: 7.0
-- Speaking: 7.5
 
 _Bunda ko'ra biz shu imtihonlardan yig'ilgan ballarni ielts balinigiz nechchi chiqishini oldindan bilamiz_
 
 
-_Bunda ko'ra biz shu imtihonlardan yig'ilgan ballarni ielts balinigiz nechchi chiqishini oldindan bilamiz_
+
 
 ## Code to main
 ![Menu](/Images/menu.png)
